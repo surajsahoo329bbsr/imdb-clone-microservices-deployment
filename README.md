@@ -24,40 +24,30 @@ This document provides a comprehensive guide to the API endpoints of our scalabl
 
 For a detailed list of API endpoints, including request/response formats and access levels, refer to the full documentation:
 
-📄 API Reference Document: IMDb Clone API Endpoints
+📄 API Reference Document: [IMDb Clone API Endpoints](https://docs.google.com/document/d/1JJE0JH7IcgwwqO2gM-7mCyxDxBQIVXxl28qT9Ff0n84/edit?tab=t.0)
 
 This document contains comprehensive details on endpoints for movies, TV shows, user reviews, watchlists, favorites, and administrative actions.
 
 ## 4. Modules and Clubbed Tables
 
 ### 4.1 Movie Module
-
 Tables: movie, movie_cast, movie_genre
-
 Handles CRUD operations for movies and their cast/genre details.
 
 ### 4.2 TV Show Module
-
 Tables: tv_show, tv_show_cast, tv_show_genre, tv_show_season, tv_show_episode
-
 Manages TV show entries, including seasons, episodes, and cast information.
 
 ### 4.3 User Module
-
 Tables: user, review, person, watchlist, favorite_list, watch_history
-
 Supports user management, reviews, and engagement features like watchlists and favorites.
 
 ### 4.4 Admin Module
-
 Tables: admin, genre, milestone
-
 Provides administrative capabilities for managing content, genres, and system milestones.
 
 ### 4.5 User Engagement Module
-
 Tables: watchlist, watch_history, favorite_list
-
 Enables tracking of user interactions with movies and TV shows.
 
 ## 5. Conclusion
