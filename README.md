@@ -55,12 +55,12 @@ Enables tracking of user interactions with movies and TV shows.
 Each microservice module is maintained in a separate GitHub repository for better scalability and modular development. Below are the links to the respective repositories:
 
 | Module                  | GitHub Repository |
-|-------------------------|------------------|
-| Movie Module           | [GitHub Repo](#) |
-| TV Show Module        | [tv-show-module](https://github.com/surajsahoo329bbsr/imdb-clone-tv-show-module) |
-| User Module           | [GitHub Repo](#) |
-| Admin Module         | [GitHub Repo](#) |
-| User Engagement Module | [GitHub Repo](#) |
+|-------------------------|-------------------|
+| Movie Module            | [movie-module](https://github.com/charan1072/movie-review/tree/master) |
+| TV Show Module          | [tv-show-module](https://github.com/surajsahoo329bbsr/imdb-clone-tv-show-module) |
+| User Module             | [GitHub Repo](#) |
+| Admin Module            | [GitHub Repo](#) |
+| User Engagement Module  | [GitHub Repo](#) |
 
 ## 6. Conclusion
 This document serves as a guideline for backend developers working on the API endpoints. Future modifications should follow the outlined principles for consistency and maintainability.
